@@ -90,3 +90,7 @@ ENV/
 
 # PyCharm
 .idea/
+
+# test
+test/data/
+test/training/
